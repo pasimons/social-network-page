@@ -1,0 +1,165 @@
+body{
+    background-color: white;
+}
+
+.big-blue-header{
+    background-color: #29487d;
+    height: 300px;
+    width: 100%;
+    
+}
+
+.navbar{
+    position:  absoulte;
+    width: 100%;
+    height: 147px;
+    background-color: whitesmoke;
+    
+    }
+
+.profile-photo{
+    border-radius: 1.75%;
+    height: 150px;
+    width: 170px;
+    border: 1px dashed black;
+    background-color:#29487d;
+    position: relative;
+    top: 135px;
+    left: 20px;
+}
+
+.navbar-btn{
+    float: right;
+
+}
+
+.btn-group{
+    text-align: center;
+}
+
+
+.about-paragraph{
+    border: 2px dashed grey;
+    width: 300px;
+}
+
+.column-about{
+    border: 2px dashed  grey;
+    height: 200px;
+    width: 300px;
+    list-style: none;
+    
+
+}
+
+.colum-app{
+    list-style: none;
+    border: 2px dashed grey;
+    width: 300px;
+}
+
+.h3{
+    border: 2px dashed grey;
+    height: 200px;
+    width: 200px;
+}
+
+.div-container{
+   
+    height: 750px;
+    width: 100px;
+    border: 2px dashed grey;
+    width: 299px;
+    height: 825px;
+    
+}
+
+.colums{
+    
+    height: 750px;
+    width: 100px;
+    border: 2px dashed grey;
+    width: 299px;
+    height: 825px;
+   
+}
+
+
+
+
+
+.div1{
+    border: 5px dashed black;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    border: 5px solid white;
+    background-color: darkblue;
+}
+
+.div2{
+    border: 5px solid white;
+    width: 100px;
+    height: 100px;
+    background-color: darkblue;
+    
+
+}
+
+
+.div3{
+    border: 5px solid white;
+    width:100px;
+    height:100px;
+background: darkblue;
+}
+
+
+.div4{
+    border: 5px solid white;
+    width:100px;
+    height:100px;
+    background:darkblue;
+}
+
+
+.div5{
+    border: 5px solid white;
+    width:100px;
+    height:100px;
+    background:darkblue;
+   
+}
+
+.div6{
+    border: 5px solid white;
+  width:100px;
+  height:100px;
+  background:darkblue;
+}
+
+.div7{
+    border: 5px solid white;
+    width:100px;
+    height:100px;
+    background:darkblue;
+
+}
+
+.photo-box{
+    width: 100px;
+    height:100px;
+    background:darkblue;
+    float: right;
+
+}
+
+.photo-div{
+    float: left;
+}
+  
+.post-div{
+    float:right
+}
+
+
