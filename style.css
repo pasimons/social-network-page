@@ -1,11 +1,17 @@
 body{
     background-color: white;
+    position: absolute;
+    width: 850%;
+    height: 1000x;
+
+
 }
 
 .big-blue-header{
     background-color: #29487d;
     height: 300px;
-    width: 100%;
+    width: 850%;
+    right: -100px;
     
 }
 
@@ -41,6 +47,8 @@ body{
 .about-paragraph{
     border: 2px dashed grey;
     width: 300px;
+    position: relative;
+    left: 700px;
 }
 
 .column-about{
@@ -48,6 +56,8 @@ body{
     height: 200px;
     width: 300px;
     list-style: none;
+    position: relative;
+    left: 700px;
     
 
 }
@@ -56,21 +66,19 @@ body{
     list-style: none;
     border: 2px dashed grey;
     width: 300px;
+    position: relative;
+    left: 700px;
 }
 
 .h3{
     border: 2px dashed grey;
     height: 200px;
     width: 200px;
+    position: relative;
+    left: 700px;
 }
 
-.div-container{
-   
-    height: 750px;
-    width: 100px;
-    border: 2px dashed grey;
-    width: 299px;
-    height: 825px;
+
     
 }
 
@@ -81,7 +89,8 @@ body{
     border: 2px dashed grey;
     width: 299px;
     height: 825px;
-   
+ position: relative;
+    left: 700px;
 }
 
 
@@ -150,16 +159,28 @@ background: darkblue;
     width: 100px;
     height:100px;
     background:darkblue;
-    float: right;
+    position: relative;
+    left: 1050px;
+    width: 328px;
 
 }
 
 .photo-div{
     float: left;
+    width: 300px;
+    position: relative;
+    left: 700px;
+    border: 1px dashed black;
 }
   
-.post-div{
-    float:right
+.interior-div8{
+    float:right;
+    width: 300px;
+    position: relative;
+    left: 700px;
+    border: 1px dashed black;
+
+
 }
 
 
